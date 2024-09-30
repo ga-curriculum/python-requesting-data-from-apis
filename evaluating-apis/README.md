@@ -7,7 +7,7 @@
 
 | Lesson          | Duration |
 | --------------- | -------- |
-| Evaluating APIs | 50 min   |
+| Evaluating APIs | 10 min   |
 
 ## Read the Docs
 

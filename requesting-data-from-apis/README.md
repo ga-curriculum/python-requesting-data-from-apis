@@ -3,7 +3,7 @@
   <span class="subhead">Making an HTTP Request</span>
 </h1>
 
-- **Learning objective:** By the end of this lesson, learners will be able to **utilize** the Python `requests` library to send HTTP requests and **extract** relevant data from the response.
+**Learning objective:** By the end of this lesson, learners will be able to **utilize** the Python `requests` library to send HTTP requests and **extract** relevant data from the response.
 
 | Lesson                    | Duration |
 | ------------------------- | -------- |
@@ -48,6 +48,36 @@ print(data)
 ```
 
 > 💡 The `.json()` method simplifies working with API data by converting it to Python's dictionary structure.
+
+### Sample data response
+
+```json
+{
+  "data": [
+    {
+      "breed": "Abyssinian",
+      "country": "Ethiopia",
+      "origin": "Natural/Standard",
+      "coat": "Short",
+      "pattern": "Ticked"
+    },
+    {
+      "breed": "Aegean",
+      "country": "Greece",
+      "origin": "Natural/Standard",
+      "coat": "Semi-long",
+      "pattern": "Bi- or tri-colored"
+    },
+    {
+      "breed": "American Curl",
+      "country": "United States",
+      "origin": "Mutation",
+      "coat": "Short/Long",
+      "pattern": "All"
+    }
+  ]
+}
+```
 
 ## Navigating Complex Data
 
