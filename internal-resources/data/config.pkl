@@ -10,9 +10,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Module Name]"
+  friendlyName = "Python: Requesting Data from APIs"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk-module-name"
+  name = "python-requesting-data-from-apis"
   type = "Lesson"
 }
 
@@ -21,14 +21,21 @@ courses {
     // Do not remove this fallback course!
     name = "fallback"
     microlessons {
-      // add microlessons here, in the order they should be delivered
       mls.setup
-      mls.concepts
-      mls.microlesson01
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.microlesson02) {
-        type = "Level Up content"
-      }
+      mls.whatIsAnApi
+      mls.makingAnHttpRequest
+      mls.requestingDataFromApis
+      mls.evaluatingApis
+    }
+  }
+  new {
+    name = "apd"
+    microlessons {
+      mls.setup
+      mls.whatIsAnApi
+      mls.makingAnHttpRequest
+      mls.requestingDataFromApis
+      mls.evaluatingApis
     }
   }
 }

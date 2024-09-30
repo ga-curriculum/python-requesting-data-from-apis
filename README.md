@@ -1,21 +1,22 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Python: Requesting Data from APIs</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module introduces students to the foundational concepts of working with APIs (Application Programming Interfaces). It covers what APIs are, how they enable communication between software applications, and the process of making HTTP requests to access data from external sources. Students will learn how to evaluate API documentation, understand request methods like `GET` and `POST`, and handle responses, including working with JSON data.
 
 ## Content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md)                          | -- | -- | Setting up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | -- | tktk skills covered                     |
-| **Total content**                                   | -- | -- |                                         |
+| Lesson                                                             | Time   | Skills                                                                                                                                  |
+| ------------------------------------------------------------------ | ------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| [Setup](./setup/README.md)                                         | 5 min  | Setting up the development environment.                                                                                                 |
+| [What is an API?](./what-is-an-api/README.md)                      | 10 min | Understanding the basic concept of APIs and how they facilitate communication between software applications.                            |
+| [Making an HTTP Request](./making-an-http-request/README.md)       | 15 min | Learning how to make HTTP requests (GET, POST, PUT, and DELETE) to APIs using tools like Postman or Python's `requests` library.        |
+| [Requesting Data From APIs](./requesting-data-from-apis/README.md) | 15 min | Utilize Python's `requests` library to send an HTTP request and extract relevant data from the response                                 |
+| [Evaluating APIs](./evaluating-apis/README.md)                     | 10 min | Assessing API documentation, determining the required parameters, endpoints, and understanding how to handle API responses effectively. |
+| **Total content**                                                  | 55 min |                                                                                                                                         |
 
 ## References
 
@@ -25,17 +26,7 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
-
-🐙 [Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+- Python Fundamentals
 
 ### Resources
 

@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Python: Requesting Data from APIs</span>
   <span class="subhead">Setup</span>
 </h1>
 
@@ -11,11 +11,11 @@ Open your Terminal application and navigate to your <code class="filepath">~/cod
 cd ~/code/ga/lectures
 ```
 
-Make a new directory called <code class="filepath">[tktk-module-name]</code>, then enter this directory:
+Make a new directory called <code class="filepath">[python-requesting-data-from-apis]</code>, then enter this directory:
 
 ```bash
-mkdir [tktk-module-name]
-cd [tktk-module-name]
+mkdir [python-requesting-data-from-apis]
+cd [python-requesting-data-from-apis]
 ```
 
 <!-- Other setup instructions here -->
