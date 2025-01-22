@@ -28,6 +28,11 @@ This module introduces students to the foundational concepts of working with API
 
 - Python Fundamentals
 
+### Course landing pages
+
+- [APD - Advanced Python for Developers](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-requesting-data-from-apis/canvas-landing-pages/apd.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/python-requesting-data-from-apis/canvas-landing-pages/fallback.html)
+
 ### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
@@ -38,4 +43,4 @@ This module introduces students to the foundational concepts of working with API
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
