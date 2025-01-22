@@ -6,42 +6,68 @@
   "repo": {
     "friendlyName": "Python: Requesting Data from APIs",
     "name": "python-requesting-data-from-apis",
-    "type": "Lesson"
+    "type": "Lesson",
+    "about": "",
+    "starterCode": "",
+    "solutionCode": "",
+    "deployedSite": ""
   },
   "courses": [
     {
       "name": "fallback",
+      "courseAcronym": "",
+      "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
           "friendlyName": "Setup",
           "dirName": "setup",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "What is an API?",
           "dirName": "what-is-an-api",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Making an HTTP Request",
           "dirName": "making-an-http-request",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Requesting Data From APIs",
           "dirName": "requesting-data-from-apis",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Evaluating APIs",
           "dirName": "evaluating-apis",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         }
       ],
       "isHeaderShown": true,
@@ -68,37 +94,59 @@
     },
     {
       "name": "apd",
+      "courseAcronym": "",
+      "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
           "friendlyName": "Setup",
           "dirName": "setup",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "What is an API?",
           "dirName": "what-is-an-api",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Making an HTTP Request",
           "dirName": "making-an-http-request",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Requesting Data From APIs",
           "dirName": "requesting-data-from-apis",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         },
         {
           "friendlyName": "Evaluating APIs",
           "dirName": "evaluating-apis",
           "type": "Content",
-          "videoUrl": ""
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
         }
       ],
       "isHeaderShown": true,
