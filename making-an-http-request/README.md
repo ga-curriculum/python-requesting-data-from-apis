@@ -141,7 +141,7 @@ Many APIs require you to include a key with your HTTP request. An API key is a u
 
 2. **Usage Tracking**: API keys allow providers to monitor how their API is being used. They can track the number of requests made by each key, helping to prevent abuse and ensuring that users stay within their usage limits.
 
-3. **Rate Limiting**: Most APIs impose limits on how many requests you can make in a given time period (e.g., 1000 requests per hour). Your API key helps enforce these limits by associating them with your account.
+3. **Rate Limiting**: Most APIs impose limits on how many requests you can make in a given time period (ex: 1000 requests per hour). Your API key helps enforce these limits by associating them with your account.
 
 4. **Billing**: If an API has paid tiers, your API key is linked to your billing account. The provider can charge you based on the usage tracked by your key. However, many APIs offer free tiers, so you can start using them without incurring costs.
 
