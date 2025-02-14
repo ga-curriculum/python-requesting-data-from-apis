@@ -5,17 +5,17 @@
 
 ## Setup
 
-Open your Terminal application and navigate to your <code class="filepath">~/code/ga/lectures</code> directory:
+Open your Terminal application and navigate to your <code class="filepath">~/lessons</code> directory:
 
 ```bash
-cd ~/code/ga/lectures
+cd ~/lessons
 ```
 
-Make a new directory called <code class="filepath">[python-requesting-data-from-apis]</code>, then enter this directory:
+Make a new directory called <code class="filepath">python-requesting-data-from-apis</code>, then enter this directory:
 
 ```bash
-mkdir [python-requesting-data-from-apis]
-cd [python-requesting-data-from-apis]
+mkdir python-requesting-data-from-apis
+cd python-requesting-data-from-apis
 ```
 
 <!-- Other setup instructions here -->
